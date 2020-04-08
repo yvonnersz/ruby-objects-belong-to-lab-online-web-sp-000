@@ -5,5 +5,5 @@ class Post
     @title = title
   end
 
-  Post.title = Author.name
+  Author.name = Post.title
 end
