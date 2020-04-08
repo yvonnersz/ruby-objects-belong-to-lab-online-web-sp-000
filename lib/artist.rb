@@ -6,5 +6,4 @@ class Artist
     @name = name
   end
 
-  Song.new.artist = Artist.new
 end
