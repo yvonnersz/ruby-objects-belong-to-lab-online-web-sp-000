@@ -1,5 +1,5 @@
 class Post
   attr_accessor :title
 
-  Post.class = Author.class
+  Post.new(title) = Author.new(name)
 end
