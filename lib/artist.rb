@@ -6,6 +6,4 @@ class Artist
     @name = name
   end
 
-  song.new(title) == artist.new(name)
-
 end
