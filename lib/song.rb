@@ -1,7 +1,5 @@
 
 class Song
-  attr_accessor :title
-
-  Song.title = Artist.name
+  attr_accessor :title, :artist
 
 end
